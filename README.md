@@ -18,7 +18,7 @@ Complete the following tasks:
 
 ### Files
 
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
+[Completed Notebook](Starter_Code/HW_crypto_sentiment.ipynb)
 
 ---
 
